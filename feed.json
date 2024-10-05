@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "تاسيس شركة",
+    "description": "",
+    "home_page_url": "https://site1-23q.pages.dev",
+    "feed_url": "https://site1-23q.pages.dev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "شيةهى"
+    },
+    "items": [
+        {
+            "id": "https://site1-23q.pages.dev/test.html",
+            "url": "https://site1-23q.pages.dev/test.html",
+            "title": "test",
+            "summary": "test",
+            "content_html": "<p>test</p>",
+            "author": {
+                "name": "شيةهى"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-05T17:18:02+03:00",
+            "date_modified": "2024-10-05T17:18:02+03:00"
+        }
+    ]
+}

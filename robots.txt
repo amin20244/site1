@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://site1-23q.pages.dev/sitemap.xml
